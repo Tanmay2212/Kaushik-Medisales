@@ -1,0 +1,1 @@
+# Core views - to be populated with health checks and common endpoints

@@ -1,0 +1,1 @@
+# Inventory serializers - to be created in CHUNK 2
